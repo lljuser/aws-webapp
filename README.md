@@ -1,3 +1,12 @@
-# Ant Design 实战课程配套代码
+# aws-lambda-spa
 
-<img src="https://gw.alipayobjects.com/zos/rmsportal/DReQIejdcJPeaXWEDKDe.png" />
+## required
+### npm
+### webpack
+
+## dev
+### cmd: npm run dev
+
+## package
+### cmd: npm run build
+
